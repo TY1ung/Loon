@@ -1,5 +1,3 @@
-# DOMAIN-SET,https://raw.githubusercontent.com/NobyDa/ND-AD/master/Surge/AD_Block.txt,REJECT
-
 # Current total domain name : 43,000+ 
 # Update time : 2020.5.19 1950
 
