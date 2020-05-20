@@ -200,7 +200,7 @@ DOMAIN-SUFFIX,crashlytics.com
 DOMAIN,ios.bugly.qq.com
 DOMAIN,pingma.qq.com
 # > Other
-DOMAIN-SUFFIX,mob.com
+#DOMAIN-SUFFIX,mob.com
 
 # Advertising 广告
 # > General
