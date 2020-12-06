@@ -1,19 +1,41 @@
 # Advertising
 # > General
+DOMAIN-KEYWORD,admarvel
+DOMAIN-KEYWORD,admaster
+DOMAIN-KEYWORD,adsage
+DOMAIN-KEYWORD,adsensor
 DOMAIN-KEYWORD,adservice
-DOMAIN-KEYWORD,adsh
 DOMAIN-KEYWORD,adsmogo
+DOMAIN-KEYWORD,adsrvmedia
+DOMAIN-KEYWORD,adsserving
+DOMAIN-KEYWORD,adsystem
+DOMAIN-KEYWORD,adwords
+DOMAIN-KEYWORD,analysis
+DOMAIN-KEYWORD,analytics
+DOMAIN-KEYWORD,applovin
+DOMAIN-KEYWORD,appsflyer
+DOMAIN-KEYWORD,cnzz
 DOMAIN-KEYWORD,domob
+DOMAIN-KEYWORD,duomeng
+DOMAIN-KEYWORD,dwtrack
+DOMAIN-KEYWORD,guanggao
+DOMAIN-KEYWORD,lianmeng
 DOMAIN-KEYWORD,monitor
+DOMAIN-KEYWORD,omgmta
 DOMAIN-KEYWORD,omniture
+DOMAIN-KEYWORD,openx
+DOMAIN-KEYWORD,partnerad
+DOMAIN-KEYWORD,pingfore
+DOMAIN-KEYWORD,socdm
+DOMAIN-KEYWORD,supersonicads
 DOMAIN-KEYWORD,tracking
+DOMAIN-KEYWORD,usage
+DOMAIN-KEYWORD,zjtoolbar
 
 DOMAIN-SUFFIX,1phads.com
 DOMAIN-SUFFIX,1rtb.com
 DOMAIN-SUFFIX,1xl.co.uk
 DOMAIN-SUFFIX,206ads.com
-DOMAIN-SUFFIX,247realmedia.com
-DOMAIN-SUFFIX,2mdnsys.com
 DOMAIN-SUFFIX,3cinteractive.com
 DOMAIN-SUFFIX,4mads.com
 DOMAIN-SUFFIX,5rocks.io
@@ -24,14 +46,10 @@ DOMAIN-SUFFIX,a-ads.com
 DOMAIN-SUFFIX,aarki.com
 DOMAIN-SUFFIX,aarki.net
 DOMAIN-SUFFIX,abtasty.com
-DOMAIN-SUFFIX,accesstrade.com
-DOMAIN-SUFFIX,accesstrade.com.vn
-DOMAIN-SUFFIX,accesstrade.vn
 DOMAIN-SUFFIX,acento.com
 DOMAIN-SUFFIX,actionads.ru
 DOMAIN-SUFFIX,actionpay.ru
 DOMAIN-SUFFIX,ad.gt
-DOMAIN-SUFFIX,ad.org.vn
 DOMAIN-SUFFIX,ad1.ru
 DOMAIN-SUFFIX,ad120m.com
 DOMAIN-SUFFIX,ad127m.com
@@ -40,7 +58,6 @@ DOMAIN-SUFFIX,ad132m.com
 DOMAIN-SUFFIX,ad1data.com
 DOMAIN-SUFFIX,ad2games.com
 DOMAIN-SUFFIX,ad2iction.com
-DOMAIN-SUFFIX,ad360.vn
 DOMAIN-SUFFIX,ad4.com.cn
 DOMAIN-SUFFIX,ad4game.com
 DOMAIN-SUFFIX,ad6media.co.uk
@@ -90,7 +107,6 @@ DOMAIN-SUFFIX,adfalcon.com
 DOMAIN-SUFFIX,adflow.ru
 DOMAIN-SUFFIX,adinall.com
 DOMAIN-SUFFIX,ad-locus.com
-DOMAIN-SUFFIX,admaster.com.cn
 DOMAIN-SUFFIX,ad-maven.com
 DOMAIN-SUFFIX,admob.com
 DOMAIN-SUFFIX,ad-move.jp
@@ -99,8 +115,8 @@ DOMAIN-SUFFIX,adnyg.com
 DOMAIN-SUFFIX,ad-plus.cn
 DOMAIN-SUFFIX,adsafeprotected.com
 DOMAIN-SUFFIX,ad-score.com
-DOMAIN-SUFFIX,adsensor.org
 DOMAIN-SUFFIX,adsmediabox.com
+DOMAIN-SUFFIX,ads-pixiv.net
 DOMAIN-SUFFIX,ad-srv.co
 DOMAIN-SUFFIX,adsrvr.org
 DOMAIN-SUFFIX,ad-stir.com
@@ -110,21 +126,22 @@ DOMAIN-SUFFIX,adsymptotic.com
 DOMAIN-SUFFIX,ad-sys.com
 DOMAIN-SUFFIX,adtarget.io
 DOMAIN-SUFFIX,adtarget.me
+DOMAIN-SUFFIX,adtdp.com
 DOMAIN-SUFFIX,adthor.com
 DOMAIN-SUFFIX,adtrace.org
 DOMAIN-SUFFIX,advertising.com
 DOMAIN-SUFFIX,adwhirl.com
-DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,adwo.com
+DOMAIN-SUFFIX,adxadserv.com
+DOMAIN-SUFFIX,aiclk.com
 DOMAIN-SUFFIX,amobee.com
 DOMAIN-SUFFIX,app-adforce.jp
 DOMAIN-SUFFIX,appads.com
 DOMAIN-SUFFIX,appcpi.net
 DOMAIN-SUFFIX,appier.net
 DOMAIN-SUFFIX,applift.com
-DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,applvn.com
 DOMAIN-SUFFIX,apsalar.com
-DOMAIN-SUFFIX,apxadtracking.net
 DOMAIN-SUFFIX,atomhike.com
 DOMAIN-SUFFIX,axonix.com
 DOMAIN-SUFFIX,b2pk.com
@@ -141,6 +158,7 @@ DOMAIN-SUFFIX,crwdcntrl.net
 DOMAIN-SUFFIX,ctrmi.com
 DOMAIN-SUFFIX,eroadvertising.com
 DOMAIN-SUFFIX,ero-advertising.com
+DOMAIN-SUFFIX,exdynsrv.com
 DOMAIN-SUFFIX,exosrv.com
 DOMAIN-SUFFIX,go2cloud.org
 DOMAIN-SUFFIX,growingio.com
@@ -178,13 +196,13 @@ DOMAIN-SUFFIX,mobclix.com
 DOMAIN-SUFFIX,mopub.com
 DOMAIN-SUFFIX,okjhb.xyz
 DOMAIN-SUFFIX,open-adx.com
-DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,outbrain.com
 DOMAIN-SUFFIX,pubmatic.com
 DOMAIN-SUFFIX,qchannel01.cn
 DOMAIN-SUFFIX,rayjump.com
 DOMAIN-SUFFIX,rtbasia.com
 DOMAIN-SUFFIX,rubiconproject.com
+DOMAIN-SUFFIX,runative-syndicate.com
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,sdkclick.com
 DOMAIN-SUFFIX,shuzilm.cn
@@ -192,11 +210,11 @@ DOMAIN-SUFFIX,smaato.net
 DOMAIN-SUFFIX,smartadserver.com
 DOMAIN-SUFFIX,smartnews-ads.com
 DOMAIN-SUFFIX,supersonic.com
-DOMAIN-SUFFIX,supersonicads.com
 DOMAIN-SUFFIX,tagtic.cn
 DOMAIN-SUFFIX,tanv.com
 DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,tapjoy.com
+DOMAIN-SUFFIX,teads.tv
 DOMAIN-SUFFIX,trafficjunky.net
 DOMAIN-SUFFIX,trvdp.com
 DOMAIN-SUFFIX,turn.com
@@ -219,7 +237,6 @@ DOMAIN-SUFFIX,yhdichan.com
 DOMAIN-SUFFIX,yicha.jp
 DOMAIN-SUFFIX,yllix.com
 DOMAIN-SUFFIX,ymtrack6.co
-DOMAIN-SUFFIX,ymtracking.com
 DOMAIN-SUFFIX,yoc.com
 DOMAIN-SUFFIX,yoc-performance.com
 DOMAIN-SUFFIX,yomob.com.cn
@@ -242,30 +259,27 @@ DOMAIN-SUFFIX,aiseet.atianqi.com
 
 DOMAIN,abema-adx.ameba.jp
 DOMAIN,ad.12306.cn
-DOMAIN,ad.360in.com
-DOMAIN,ad.51wnl-cq.com
 DOMAIN,ad.caiyunapp.com
+DOMAIN,ad.flurry.com
 DOMAIN,ad.huajiao.com
 DOMAIN,ad.hzyoka.com
 DOMAIN,ad.jiemian.com
-DOMAIN,ad.qingting.fm
 DOMAIN,ad.toutiao.com
 DOMAIN,ad.wappalyzer.com
-DOMAIN,ad.zing.vn
 DOMAIN,ad-cn.jovcloud.com
-DOMAIN,adextra.51wnl-cq.com
 DOMAIN,ads.adadapted.com
 DOMAIN,ads.chinadaily.com.cn
 DOMAIN,ads.daydaycook.com.cn
+DOMAIN,ads.flurry.com
 DOMAIN,ads.weilitoutiao.net
 DOMAIN,adsapi.manhuaren.com
 DOMAIN,adsdk.dmzj.com
 DOMAIN,adserver.pandora.com
-DOMAIN,adshow.58.com
 DOMAIN,adui.tg.meitu.com
 DOMAIN,adv.bandi.so
 DOMAIN,adv.ettoday.net
 DOMAIN,api.adnet.mob.com
+DOMAIN,api-ad.kajicam.com
 DOMAIN,app-ad.variflight.com
 DOMAIN,appnext.hs.llnwd.net
 DOMAIN,appnext-a.akamaihd.net
@@ -274,13 +288,19 @@ DOMAIN,g.ousns.net
 DOMAIN,ggs.myzaker.com
 DOMAIN,ggx.cmvideo.cn
 DOMAIN,itad.linetv.tw
-DOMAIN,ja.chushou.tv
+DOMAIN,ma-adx.ctrip.com
 DOMAIN,mads.suning.com
 DOMAIN,mobileads.msn.com
 DOMAIN,mopnativeadv.037201.com
 DOMAIN,nativeadv.dftoutiao.com
-DOMAIN,sugar.zhihu.com
 DOMAIN,toots-a.akamaihd.net
+
+# (0~9)
+# > 51wnl
+DOMAIN,ad.51wnl-cq.com
+DOMAIN,adextra.51wnl-cq.com
+DOMAIN,log.51wnl-cq.com
+DOMAIN,r.51wnl-cq.com
 
 # (A)
 # > Apple
@@ -321,10 +341,10 @@ DOMAIN,mobads-logs.baidu.com
 DOMAIN,nsclick.baidu.com
 # > iQIYI
 DOMAIN,t7z.cupid.iqiyi.com
-IP-CIDR,101.227.97.240/32,no-resolve
-IP-CIDR,101.227.200.11/32,no-resolve
-IP-CIDR,101.227.200.28/32,no-resolve
-IP-CIDR,124.192.153.42/32,no-resolve
+IP-CIDR,101.227.97.240/32
+IP-CIDR,101.227.200.11/32
+IP-CIDR,101.227.200.28/32
+IP-CIDR,124.192.153.42/32
 # ------
 # > baicizhan
 DOMAIN,advertise.baicizhan.com
@@ -343,16 +363,17 @@ DOMAIN,vdapprecv.app.cntvwb.cn
 DOMAIN,ad.21cn.com
 DOMAIN,ad.k.21cn.com
 DOMAIN,admarket.21cn.com
-DOMAIN,adshows.21cn.com
 # > Chelaile
 DOMAIN,atrace.chelaile.net.cn
 DOMAIN,logs.chelaile.net.cn
+# > Camera360
+DOMAIN,dispatcher.360in.com
+DOMAIN,ad.360in.com
+DOMAIN,exp.360in.com
 
 # (G)
 # > Google
 DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,googleadsserving.cn
 DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,googletagservices.com
 DOMAIN,ads.youtube.com
@@ -373,6 +394,7 @@ DOMAIN,adc.hpplay.cn
 DOMAIN,adcdn.hpplay.cn
 DOMAIN,adeng.hpplay.cn
 DOMAIN,rp.hpplay.cn
+DOMAIN,rpt.hpplay.cn
 
 # (J)
 # > Kingsoft
@@ -442,7 +464,6 @@ DOMAIN,cdn.adapi.fotoable.com
 DOMAIN,adnew.wifi8.com
 DOMAIN,adfile.wifi8.com
 # > PConline
-DOMAIN,ad-analysis.pconline.com.cn
 DOMAIN,iad0ssl.pcauto.com.cn
 DOMAIN,iad0ssl.pconline.com.cn
 DOMAIN,imgad0.pcauto.com.cn
@@ -452,6 +473,12 @@ DOMAIN,ivy.pchouse.com.cn
 DOMAIN-SUFFIX,deliver.ifeng.com
 DOMAIN,api.newad.ifeng.com
 DOMAIN,ifengad.3g.ifeng.com
+
+# (Q)
+# > QingTing
+DOMAIN,ad.qingting.fm
+DOMAIN,adlaunch.qingting.fm
+DOMAIN,ad-cdn.qingting.fm
 
 # (S)
 # > Sina
@@ -487,7 +514,6 @@ DOMAIN,wxsnsdy.wxs.qq.com
 DOMAIN,wxsnsdythumb.wxs.qq.com
 # > Tencent Music (TME)
 DOMAIN,ad.tencentmusic.com
-DOMAIN,adserviceretry.kugou.com
 DOMAIN,ads.service.kugou.com
 DOMAIN,adsfile.bssdlbig.kugou.com
 DOMAIN,g.koowo.com
@@ -501,7 +527,6 @@ DOMAIN,rich.kuwo.cn
 DOMAIN,adm.10jqka.com.cn
 DOMAIN,stat.10jqka.com.cn
 # > The Paper
-DOMAIN,admonitor.thepaper.cn
 DOMAIN,adpai.thepaper.cn
 DOMAIN,imgadpai.thepaper.cn
 # > Thunder
@@ -528,7 +553,6 @@ DOMAIN-SUFFIX,adserver.yahoo.com
 DOMAIN-SUFFIX,adspecs.yahoo.com
 DOMAIN-SUFFIX,advertising.yahoo.com
 DOMAIN-SUFFIX,gemini.yahoo.com
-DOMAIN-SUFFIX,yap.yahoo.com
 DOMAIN,admarketing.yahoo.net
 DOMAIN,ads.auctions.yahoo.com
 DOMAIN,ads.finance.yahoo.com
@@ -536,6 +560,12 @@ DOMAIN,ads.yahoo.com
 DOMAIN,ads.yahoo.de
 
 # (Z)
+# > Zhihu
+USER-AGENT,AVOS*
+DOMAIN,appcloud2.zhihu.com
+DOMAIN,appcloud2.in.zhihu.com
+DOMAIN,sugar.zhihu.com
+IP-CIDR,118.89.204.198/32
 # > ZOL
 DOMAIN,apppv.zol.com.cn
 DOMAIN,pvnapp.zol.com.cn
