@@ -31,9 +31,6 @@ DOMAIN-KEYWORD,-spotify-com
 # > TIDAL
 USER-AGENT,TIDAL*
 DOMAIN-SUFFIX,tidal.com
-# > YouTubeMusic
-USER-AGENT,com.google.ios.youtubemusic*
-USER-AGENT,YouTubeMusic*
 # (Video)
 # > All4
 USER-AGENT,All4*
@@ -217,9 +214,3 @@ DOMAIN,api.viu.now.com
 DOMAIN,d1k2us671qcoau.cloudfront.net
 DOMAIN,d2anahhhmp1ffz.cloudfront.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
-# > YouTube
-USER-AGENT,com.google.ios.youtube*
-USER-AGENT,YouTube*
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN,youtubei.googleapis.com
