@@ -1,54 +1,54 @@
 # Privacy
-HOST-SUFFIX,adjust.com,REJECT
-HOST-SUFFIX,cpatrk.net,REJECT
-HOST-SUFFIX,kochava.com,REJECT
-HOST-SUFFIX,marketo.com,REJECT
-HOST-SUFFIX,mobileapptracking.com,REJECT
-HOST-SUFFIX,rtbasia.com,REJECT
-HOST-SUFFIX,scorecardresearch.com,REJECT
-HOST-SUFFIX,sumologic.com,REJECT
-HOST-SUFFIX,survicate.com,REJECT
-HOST-SUFFIX,tagcommander.com,REJECT
-HOST-SUFFIX,tailtarget.com,REJECT
-HOST-SUFFIX,talkingdata.net,REJECT
-HOST-SUFFIX,tapad.com,REJECT
-HOST-SUFFIX,tapfiliate.com,REJECT
-HOST-SUFFIX,tapinfluence.com,REJECT
-HOST-SUFFIX,tapstream.com,REJECT
-HOST-SUFFIX,tealiumiq.com,REJECT
-HOST-SUFFIX,tend.io,REJECT
-HOST-SUFFIX,tpctrust.com,REJECT
-HOST-SUFFIX,trackingio.com,REJECT
-HOST-SUFFIX,tremormedia.com,REJECT
-HOST-SUFFIX,woopra.com,REJECT
-HOST-SUFFIX,wootric.com,REJECT
-HOST-SUFFIX,wowanalytics.co.uk,REJECT
-HOST-SUFFIX,zoomanalytics.co,REJECT
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,cpatrk.net
+DOMAIN-SUFFIX,kochava.com
+DOMAIN-SUFFIX,marketo.com
+DOMAIN-SUFFIX,mobileapptracking.com
+DOMAIN-SUFFIX,rtbasia.com
+DOMAIN-SUFFIX,scorecardresearch.com
+DOMAIN-SUFFIX,sumologic.com
+DOMAIN-SUFFIX,survicate.com
+DOMAIN-SUFFIX,tagcommander.com
+DOMAIN-SUFFIX,tailtarget.com
+DOMAIN-SUFFIX,talkingdata.net
+DOMAIN-SUFFIX,tapad.com
+DOMAIN-SUFFIX,tapfiliate.com
+DOMAIN-SUFFIX,tapinfluence.com
+DOMAIN-SUFFIX,tapstream.com
+DOMAIN-SUFFIX,tealiumiq.com
+DOMAIN-SUFFIX,tend.io
+DOMAIN-SUFFIX,tpctrust.com
+DOMAIN-SUFFIX,trackingio.com
+DOMAIN-SUFFIX,tremormedia.com
+DOMAIN-SUFFIX,woopra.com
+DOMAIN-SUFFIX,wootric.com
+DOMAIN-SUFFIX,wowanalytics.co.uk
+DOMAIN-SUFFIX,zoomanalytics.co
 
-HOST,track.tenjin.com,REJECT
-HOST,track.tenjin.io,REJECT
-HOST,api.talkingdata.com,REJECT
-HOST,track.tiara.daum.net,REJECT
-HOST,track.tiara.kakao.com,REJECT
-HOST,zgsdk.zhugeio.com,REJECT
+DOMAIN,track.tenjin.com
+DOMAIN,track.tenjin.io
+DOMAIN,api.talkingdata.com
+DOMAIN,track.tiara.daum.net
+DOMAIN,track.tiara.kakao.com
+DOMAIN,zgsdk.zhugeio.com
 
 # > 51.LA
-HOST,js.users.51.la,REJECT
-HOST,mc.51.la,REJECT
-HOST,wc.51.la,REJECT
+DOMAIN,js.users.51.la
+DOMAIN,mc.51.la
+DOMAIN,wc.51.la
 # > 58
-HOST,track.58.com,REJECT
-HOST,tracklog.58.com,REJECT
+DOMAIN,track.58.com
+DOMAIN,tracklog.58.com
 # > Baidu
-HOST,hm.baidu.com,REJECT
-HOST,hmma.baidu.com,REJECT
+DOMAIN,hm.baidu.com
+DOMAIN,hmma.baidu.com
 # > Google
-HOST-SUFFIX,googletagmanager.com,REJECT
-HOST-SUFFIX,google-analytics.com,REJECT
-HOST,safebrowsing.googleapis.com,REJECT
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN,safebrowsing.googleapis.com
 # > MI
-HOST-SUFFIX,tracking.miui.com,REJECT
-HOST,data.mistat.xiaomi.com,REJECT
-HOST,tracking.intl.miui.com,REJECT
+DOMAIN-SUFFIX,tracking.miui.com
+DOMAIN,data.mistat.xiaomi.com
+DOMAIN,tracking.intl.miui.com
 # > Tencent
-HOST,safebrowsing.urlsec.qq.com,REJECT
+DOMAIN,safebrowsing.urlsec.qq.com
